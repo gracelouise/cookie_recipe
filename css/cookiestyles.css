@@ -1,0 +1,18 @@
+body {
+	background-color: #ffe;
+}
+img {
+	border:3px solid #000;
+}
+h2 {
+	font-family: arial;
+	font-size: 20px;
+}
+h3 {
+	font-style: italic;
+	font-size: 16px;
+	color: #887;
+}
+a {
+	color: #900;
+}
